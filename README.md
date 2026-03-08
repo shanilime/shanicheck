@@ -12,14 +12,13 @@
 
 ## Overview
 
-ShaniCheck is a closed-source screenshare checking utility built for Linux. Designed to help server staff quickly and reliably detect cheats during screenshares.
+ShaniCheck is a screenshare checking utility built for Linux. Designed to help server staff quickly and reliably detect cheats during screenshares.
 
 ---
 
 ## Requirements
 
 - Linux
-- Minecraft running via MultiMC / Prism Launcher
 - Root privileges
 
 ---
