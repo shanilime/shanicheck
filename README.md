@@ -23,14 +23,14 @@ ShaniCheck is a screenshare checking utility built for Linux. Designed to help s
 
 ---
 ## Which version to choose?
- Choose light version on modern distros like Arch. If something wrong with libs
- choose full version with static linkers.
+- Choose light version on modern distros like Arch.
+- Choose full version if something wrong with libraries.
 ---
 
 ## Usage
 
 ```bash
-sudo ./shanicheck
+sudo ./shanicheck-light or sudo ./shanicheck-full
 ```
 
 ShaniCheck will automatically locate the Minecraft process and run all checks.
