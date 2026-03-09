@@ -22,6 +22,10 @@ ShaniCheck is a screenshare checking utility built for Linux. Designed to help s
 - Root privileges
 
 ---
+## Which version to choose?
+ Choose light version on modern distros like Arch. If something wrong with libs
+ choose full version with static linkers.
+---
 
 ## Usage
 
