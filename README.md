@@ -30,7 +30,11 @@ ShaniCheck is a screenshare checking utility built for Linux. Designed to help s
 ## Usage
 
 ```bash
-sudo ./shanicheck-light or sudo ./shanicheck-full
+sudo ./shanicheck-light
+```
+ or
+```
+sudo ./shanicheck-full
 ```
 
 ShaniCheck will automatically locate the Minecraft process and run all checks.
