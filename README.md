@@ -53,4 +53,4 @@ Or contact the developer directly: **`shanilime`**
 
 ## License
 
-ShaniCheck is closed-source. Redistribution or reverse engineering of the binary is not permitted.
+ShaniCheck is closed-source. Reverse engineering of the binary is not permitted.
