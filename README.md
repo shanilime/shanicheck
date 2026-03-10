@@ -41,13 +41,10 @@ ShaniCheck will automatically locate the Minecraft process and run all checks.
 
 ---
 
-## Community
+## Contact
 
-Have a detection you want added? Join the Discord and share it — all submissions are reviewed and added manually.
-
-### [Join Discord](https://discord.gg/cxUYxfNcue)
-
-Or contact the developer directly: **`shanilime`**
+Have a detection you want added? 
+contact the developer directly: **`shanilime`**
 
 ---
 
