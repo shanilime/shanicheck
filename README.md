@@ -44,7 +44,7 @@ ShaniCheck will automatically locate the Minecraft process and run all checks.
 ## Contact
 
 Have a detection you want added? 
-contact the developer directly: **`shanilime`**
+Contact the developer directly: **`shanilime`**
 
 ---
 
