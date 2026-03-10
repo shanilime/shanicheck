@@ -1,24 +1,32 @@
-This is free and unencumbered software released into the public domain.
+SHANICHECK END USER LICENSE AGREEMENT (EULA)
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Copyright (c) 2026 ShaniLime
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. GRANT OF LICENSE
+The Author hereby grants you a non-exclusive, non-transferable license to download, install, and use the ShaniCheck software (the "Software") for personal, non-commercial purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+2. DISTRIBUTION AND ATTRIBUTION
+You are permitted to freely share and distribute the Software in its original, unmodified binary form (as provided in this repository). Any distribution must include:
+- This original License Agreement.
+- Clear attribution to the Author ([Your Name/Nickname]).
+- A link to the original repository: https://github.com/[YourUsername]/shanicheck
 
-For more information, please refer to <https://unlicense.org>
+3. RESTRICTIONS ON USE AND INTEGRATION
+You may NOT incorporate the Software, its components, or any part of its functionality into other software products, libraries, or projects without prior EXPRESS WRITTEN CONSENT from the Author.
+
+4. PROHIBITION ON REVERSE ENGINEERING
+You strictly agree NOT to:
+- Decompile, disassemble, or attempt to derive the source code of the Software.
+- Modify, adapt, or create derivative works based on the Software.
+- Bypass or attempt to bypass any security or licensing mechanisms within the Software.
+
+5. PROPRIETARY RIGHTS
+The Software is licensed, not sold. All intellectual property rights, including copyrights and trademarks, remain the sole property of the Author.
+
+6. TERMINATION
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any of its terms.
+
+7. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+All rights not expressly granted here are reserved by the Author.
