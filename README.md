@@ -39,6 +39,8 @@ sudo ./shanicheck-full
 
 ShaniCheck will automatically locate the Minecraft process and run all checks.
 
+!FALSEFLAG! If you scan one minecraft instance two times, it will cause JVMTI detection because shanicheck attach it's own agent.
+
 ---
 
 ## Contact
