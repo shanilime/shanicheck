@@ -5,7 +5,6 @@
  ___) | | | | (_| | | | | | |___| | | |  __/ (__|   < 
 |____/|_| |_|\__,_|_| |_|_|\____|_| |_|\___|\___|_|\_\
 ```
-
 > **Linux-native screenshare checking tool for Minecraft**
 
 ---
@@ -19,39 +18,45 @@ ShaniCheck is a screenshare checking utility built for Linux. Designed to help s
 ## Requirements
 
 - Linux
-- Root privileges
+- Root privileges (`sudo`)
 
 ---
+
 ## Which version to choose?
-- Choose normal version on modern distros like Arch.
-- Choose snandalone version if something wrong with libraries.
+
+| Version | When to use |
+|---|---|
+| `shanicheck` | Modern distros (Arch, Fedora, Ubuntu 22.04+) |
+| `shanicheck-standalone` | Older distros or missing system libraries |
+
 ---
 
 ## Usage
-
 ```bash
 sudo ./shanicheck
-```
- or
-```
+# or
 sudo ./shanicheck-standalone
 ```
 
 ShaniCheck will automatically locate the Minecraft process and run all checks.
 
 ---
-## FalseFlags:
-1. VM detection once detected my normal pc as VM: KVM, the chance is very low but be carefull. You should rescan pc if VM is detected.
-2. JNI/JVMTI inject: It will alsways be falseflag if you scan minecraft multiple times. So if first scan doesn't show inject and second scan show it, it doesn't mean person injected something.
+
+## Known False Positives
+
+**VM detection** — On rare occasions, legitimate hardware using KVM virtualization may be flagged. If a VM is detected, rescan before drawing conclusions.
+
+**JNI/JVMTI inject** — Always triggers on repeated scans of the same Minecraft process. If the first scan is clean and a subsequent scan flags an inject, this is a false positive — not evidence of injection.
+
 ---
 
 ## Contact
 
-Have a detection you want added? 
-Contact the developer directly: **`shanilime`**
+Have a detection you'd like added?  
+Reach out directly: **`shanilime`** on Discord.
 
 ---
 
 ## License
 
-ShaniCheck is closed-source. Reverse engineering of the binary is not permitted.
+ShaniCheck is closed-source. Reverse engineering or redistribution of the binary is not permitted.
