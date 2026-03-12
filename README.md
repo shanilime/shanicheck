@@ -59,4 +59,4 @@ Reach out directly: **`shanilime`** on Discord.
 
 ## License
 
-ShaniCheck is closed-source. Reverse engineering or redistribution of the binary is not permitted.
+ShaniCheck is closed-source. Reverse engineering of the binary is not permitted.
