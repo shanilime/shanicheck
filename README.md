@@ -22,20 +22,9 @@ ShaniCheck is a screenshare checking utility built for Linux. Designed to help s
 
 ---
 
-## Which version to choose?
-
-| Version | When to use |
-|---|---|
-| `shanicheck` | Modern distros (Arch, Fedora, Ubuntu 22.04+) |
-| `shanicheck-standalone` | Older distros or missing system libraries |
-
----
-
 ## Usage
 ```bash
 sudo ./shanicheck
-# or
-sudo ./shanicheck-standalone
 ```
 
 ShaniCheck will automatically locate the Minecraft process and run all checks.
@@ -46,7 +35,7 @@ ShaniCheck will automatically locate the Minecraft process and run all checks.
 
 **VM detection** — On rare occasions, legitimate hardware using KVM virtualization may be flagged. If a VM is detected, rescan before drawing conclusions.
 
-**JNI/JVMTI inject** — Always triggers on repeated scans of the same Minecraft process. If the first scan is clean and a subsequent scan flags an inject, this is a false positive — not evidence of injection.
+**GenericInjection** — Always triggers on repeated scans of the same Minecraft process. If the first scan is clean and a subsequent scan flags an inject, this is a false positive — not evidence of injection.
 
 ---
 
